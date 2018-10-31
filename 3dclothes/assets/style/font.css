@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'arial';
+    src: url('../fonts/arial.ttf');
+}
+
+@font-face {
+    font-family: 'ExcaliburMonospace';
+    src: url('../fonts/ExcaliburMonospace.ttf');
+}
+
+@font-face {
+    font-family: 'OleoScript-Regular';
+    src: url('../fonts/OleoScript-Regular.ttf');
+}

@@ -1,0 +1,632 @@
+    body {
+        top: 0px;
+        left: 0px;
+        margin: 0px;
+        padding: 0px;
+        overflow: hidden;
+        width: 100%;
+        height: 100%;
+        color: #434345;
+        font-family: arial;
+        position: absolute;
+    }
+    
+    #main_area {
+        width: 1024px;
+        height: 600px;
+        margin: 100px auto;
+        /*border: 1px solid black;*/
+    }
+    
+    #left_area {
+        float: left;
+        width: calc(45% - 1px);
+        height: 100%;
+        background: #f5f5f5;
+        margin-right: 1px;
+        /*border-right: 1px solid black;*/
+    }
+    
+    #right_area {
+        float: left;
+        width: calc(55% - 20px);
+        padding-left: 20px;
+    }
+    
+    h1 {
+        font-size: 32px;
+    }
+    
+    h2 sup {
+        font-size: 14px;
+    }
+    
+    h5 {
+        color: #c4c4c4;
+        font-style: italic;
+        font-weight: normal;
+    }
+    
+    sup {
+        text-transform: uppercase;
+    }
+    
+    section {
+        /* height: 100px; */
+        border: 1px solid #dad5d5;
+        margin-bottom: 30px;
+    }
+    
+    section.slide {
+        height: 120px;
+    }
+    
+    section.slide h3 {
+        margin-top: -30px;
+    }
+    
+    section.slide img.btn {
+        height: 50px;
+    }
+    
+    section.slide img.btn:hover {
+        background-color: #c0c0c0;
+    }
+    
+    section.slide img.btn.backbtn {
+        position: relative;
+        top: -35px;
+    }
+    
+    section.slide img.btn.nextbtn {
+        position: relative;
+        top: -35px;
+    }
+    
+    section p {
+        color: #909090;
+        font-size: 14px;
+    }
+    
+    section ul {
+        height: 100px;
+    }
+    
+    section h3 {
+        position: absolute;
+        font-size: 14px;
+        background: white;
+        margin-top: -30px;
+        margin-left: 20px;
+        padding: 5px 10px;
+    }
+    
+    #color_area {
+        height: 130px;
+    }
+    
+    #color_area ul {
+        margin: 0px;
+        padding: 0px 30%;
+        width: 40%;
+        height: 160px;
+        margin-top: -10px;
+    }
+    
+    .texture_area {
+        width: 100%;
+        height: 75px;
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .texture_area li {
+        width: 36px;
+        height: 36px;
+        border-radius: 0px;
+    }
+    
+    .texture_area li img {
+        float: left;
+        width: 100%;
+        height: 100%;
+    }
+    
+    ul {
+        list-style: none;
+    }
+    
+    ul li {
+        float: left;
+        cursor: pointer;
+        width: 50px;
+        height: 85px;
+        margin-right: 20px;
+        margin-bottom: 8px;
+    }
+    
+    .slide ul {
+        margin: 10px;
+        display: inline-block;
+        padding: 0px;
+        width: 420px;
+    }
+    
+    .slide ul li {
+        height: 100px!important;
+        width: auto;
+        height: auto;
+        margin: 0px;
+    }
+    
+    .slide ul li img {
+        height: 100px;
+        width: 105px;
+        object-fit: contain;
+    }
+    
+    .size_area {
+        height: 50px;
+        line-height: 30px;
+        text-align: center;
+        font-size: 12px;
+        margin-top: 32px;
+        margin-bottom: 0px;
+    }
+    
+    .size_area li {
+        width: 80px;
+        height: 30px;
+        border: 1px solid #ccc;
+        line-height: 30px;
+        background: #efefef;
+    }
+    
+    mid {
+        color: #a7a5a5;
+        font-weight: normal;
+        text-decoration: line-through;
+        font-size: 24px;
+        margin-left: 15px;
+    }
+    
+    #btn_add_cart {
+        color: white;
+        background: #42b574;
+        border: none;
+        padding: 10px 33px;
+        margin-left: 10px;
+        padding-right: 15px;
+        cursor: pointer;
+        background-image: url(../img/cart.png);
+        background-size: 20px;
+        background-repeat: no-repeat;
+        background-position: 7px;
+    }
+    
+    #sel_quantity {
+        width: 50px;
+        height: 35px;
+        text-align: center;
+        margin-left: 10px;
+    }
+    
+    group {
+        margin: 10px 0px;
+    }
+    
+    .btn_customize {
+        position: absolute;
+        margin-top: -40px;
+        margin-left: 143px;
+        background: #55bbeb;
+        color: white;
+        border: 0px none;
+        width: 90px;
+        height: 26px;
+        cursor: pointer;
+    }
+    
+    #mask_area {
+        position: absolute;
+        z-index: 99;
+        left: 0px;
+        top: 0px;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.65);
+        display: none;
+    }
+    
+    #popup_area {
+        position: absolute;
+        z-index: 999;
+        top: 100px;
+        left: calc(50% - 325px);
+        width: 650px;
+        height: 500px;
+        background: white;
+        box-shadow: 0px 0px 10px black;
+        display: none;
+    }
+    
+    #canvas_area {
+        width: 450px;
+        height: 450px;
+        border: 1px solid gray;
+        margin: 25px 15px;
+        float: left;
+    }
+    
+    #canvas_area .canvas-container {
+        display: none;
+    }
+    
+    #canvas_area .active {
+        display: block;
+    }
+    
+    #canvas {
+        width: 100%;
+        height: 100%;
+    }
+    
+    #btn_area {
+        float: left;
+        width: 460px;
+        top: 715px;
+        position: absolute;
+        text-align: center;
+    }
+    
+    #btn_area input,
+    input[type='button'] {
+        width: 130px;
+        height: 35px;
+        margin: 15px;
+        margin-top: 0px;
+        color: white;
+        background: #42b574;
+        border: none;
+        cursor: pointer;
+        box-shadow: 0px 0px 5px grey;
+    }
+    
+    #btn_save {
+        width: 130px;
+        height: 35px;
+        margin-top: 0px;
+        color: white;
+        background: #42b574;
+        border: none;
+        cursor: pointer;
+        box-shadow: 0px 0px 5px grey;
+    }
+    
+    #btn_add_submit {
+        background: #c74f54 !important;
+    }
+    
+    #btn_file_upload {
+        position: absolute;
+        opacity: 0.01;
+        margin-left: -150px !important;
+    }
+    
+    #image_area {
+        position: absolute;
+        z-index: 999;
+        top: 500px;
+        left: 0px;
+        display: none;
+        background: rgba(255, 255, 255, 1);
+        width: calc(100% - 30px);
+        height: 220px;
+        border-top: 2px solid #ccc;
+        padding: 15px;
+    }
+    
+    #text_area {
+        position: absolute;
+        z-index: 999;
+        top: 500px;
+        left: 0px;
+        display: none;
+        background: rgba(255, 255, 255, 1);
+        width: calc(100% - 30px);
+        height: 220px;
+        border-top: 2px solid #ccc;
+        padding: 15px;
+    }
+    
+    #popup_area p {
+        margin: 0px;
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+    
+    #popup_area label {
+        float: right;
+        margin-top: -3px;
+        margin-right: 30px;
+    }
+    
+    #popup_area dl {
+        margin: 0px;
+    }
+    
+    #popup_area ul {
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    #popup_area li {
+        border: 0px none !important;
+        height: 50px;
+        width: 145px;
+    }
+    
+    #popup_area li.large .slider {
+        margin-top: 12px;
+        margin-left: 10px;
+        width: 255px;
+    }
+    
+    #popup_area .sel {
+        background-color: #85bcf5;
+    }
+    
+    #popup_area li.large {
+        width: 300px !important;
+    }
+    
+    #popup_area li:last-child {
+        margin-right: 0px !important;
+    }
+    
+    #popup_area li button {
+        cursor: pointer;
+        width: 25px;
+        height: 25px;
+        margin-right: 10px;
+        border: 1px solid gray;
+        float: left;
+        background: white;
+        padding: 0px;
+    }
+    
+    #input_text {
+        width: 250px !important;
+        height: 50px;
+    }
+    
+    #popup_area label {
+        font-family: arial;
+        font-size: 13px;
+    }
+    
+    #text_area input[type="text"] {
+        width: 120px;
+        height: 25px;
+    }
+    
+    #text_area li button img {
+        width: 20px;
+    }
+    
+    #text_area select {
+        width: 120px;
+        height: 25px;
+    }
+    
+    #text_area #btn_style_italic {
+        font-style: italic;
+    }
+    
+    #text_area p span {
+        background: gray;
+        color: white;
+        padding: 1px 5px;
+        font-size: 12px;
+        font-family: arial;
+    }
+    
+    #text_area #btn_style_bold {
+        font-weight: bold;
+    }
+    
+    #text_area #btn_style_underline {
+        text-decoration: underline;
+    }
+    
+    #text_area .drop {
+        float: left;
+        background: url(../img/expand-arrow.png) no-repeat;
+        background-position: right 5px center;
+        background-size: 20% 74%;
+        background-color: white;
+        border: 1px solid gray;
+        height: 23px;
+        width: 60px;
+        padding-left: 10px;
+        line-height: 23px;
+    }
+    
+    #text_area .mini {
+        width: 25px !important;
+        margin-right: 10px;
+        background-size: 70%;
+        padding-left: 0px;
+    }
+    
+    #popup_area dd {
+        margin: 0px;
+    }
+    
+    #left_btn_area {
+        position: absolute;
+        margin-top: 630px;
+    }
+    
+    #left_btn_area input {
+        width: 130px;
+        height: 35px;
+        margin-top: 0px;
+        color: white;
+        background: #42b574;
+        border: none;
+        cursor: pointer;
+        box-shadow: 0px 0px 5px grey;
+    }
+    
+    #font_color_list {
+        display: none;
+        position: absolute;
+        width: 185px;
+        z-index: 1001;
+        margin-top: 25px;
+        background: white;
+        box-shadow: 0px 0px 10px grey;
+        padding: 7px;
+        padding-left: 10px;
+    }
+    
+    #font_color_list .color_item {
+        cursor: pointer;
+        width: 30px;
+        height: 30px;
+        background: white;
+        border: 1px solid #aaa;
+        float: left;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+    
+    .color_picker img {
+        width: 80%;
+        margin: 10%;
+    }
+    
+    .slider {
+        background: #a9a6a6;
+        height: 2px !important;
+        position: absolute;
+        width: 80%;
+        margin-left: 30px;
+        margin-top: 15px;
+    }
+    
+    .slider a {
+        cursor: pointer;
+        width: 20px !important;
+        height: 20px !important;
+        border-radius: 20px;
+        margin-top: -2px;
+        background: white !important;
+    }
+    
+    #outline_slider {
+        display: none;
+        margin-top: 45px;
+    }
+    
+    #spacing_area {
+        display: none;
+    }
+    
+    #btn_hover_remove {
+        position: absolute;
+        z-index: 9999;
+        width: 32px;
+        cursor: pointer;
+        display: none;
+    }
+    
+    .block {
+        border: 1px solid #c0c0c0;
+        position: relative;
+        padding-top: 20px;
+        padding-bottom: 25px;
+        margin-bottom: 20px;
+    }
+    
+    .block h2 {
+        position: absolute;
+        font-size: 16px;
+        margin-top: -30px;
+        margin-left: 10px;
+        background: white;
+        padding: 0px 7px;
+    }
+    
+    .block section {
+        border: 0px none;
+        width: 100%;
+        height: 30px;
+        margin-top: 30px;
+        margin-bottom: 0px;
+    }
+    
+    .slider a {
+        width: 17px !important;
+        height: 17px !important;
+    }
+    
+    #login_area {
+        width: 450px;
+        /* height: 250px; */
+        margin: 200px auto;
+        background: #f2f2f2;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px gray;
+    }
+    
+    #login_area h3 {
+        padding-top: 18px;
+        text-align: center;
+    }
+    
+    .login_section {
+        display: block;
+        width: 100%;
+        height: 50px;
+    }
+    
+    .login_section .title {
+        float: left;
+        width: 25%;
+        font-family: arial;
+        margin-left: 10%;
+        line-height: 30px;
+    }
+    
+    .login_section .input {
+        float: left;
+        width: 65%;
+    }
+    
+    .login_section .input input,
+    .login_section .input select {
+        width: 90%;
+        height: 30px;
+    }
+    
+    .login_section input[type="button"],
+    .login_section input[type="submit"] {
+        width: 130px;
+        height: 35px;
+        margin: 15px;
+        margin-top: 0px;
+        color: white;
+        background: #42b574;
+        border: none;
+        cursor: pointer;
+        box-shadow: 0px 0px 5px grey;
+    }
+    
+    #login_area #login_btnarea {
+        display: block;
+        width: 100%;
+        height: 50px;
+        text-align: center;
+    }
