@@ -1,0 +1,4530 @@
+[
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "211 Helpline",
+    "YTD_EXPENDITURES": 1660315.6000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "October, 03 2017 15:14:33"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "211 Helpline",
+    "YTD_EXPENDITURES": 391680.3600,
+    "ORIGINAL_CONTRACT_AMOUNT": 1717720.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "September, 17 2018 12:49:30"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 248077.6900,
+    "ORIGINAL_CONTRACT_AMOUNT": 336891.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "May, 02 2018 16:36:13"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 574276.7700,
+    "ORIGINAL_CONTRACT_AMOUNT": 601005.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "May, 08 2018 18:54:53"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 242482.4400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "October, 10 2017 20:05:46"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 156698.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": 157027.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "July, 11 2018 20:09:31"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 73770.5200,
+    "ORIGINAL_CONTRACT_AMOUNT": 74981.0000,
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "March, 08 2018 21:14:47"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 212414.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 212704.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "April, 20 2018 12:41:19"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 217000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 217000.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "April, 13 2018 12:45:22"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 129212.7000,
+    "ORIGINAL_CONTRACT_AMOUNT": 129769.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "March, 19 2018 13:09:46"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 62740.8900,
+    "ORIGINAL_CONTRACT_AMOUNT": 122222.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "June, 11 2018 13:03:34"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 428271.2200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "August, 01 2017 09:51:15"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 152102.2200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "August, 24 2017 12:39:39"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 181501.2100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "August, 02 2017 00:28:29"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 652147.1000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "August, 22 2017 19:53:45"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 426562.2200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Robert Feiler",
+    "EXECUTION_DATE": "August, 04 2017 13:40:44"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 136373.5800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "August, 03 2017 12:56:31"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 203056.7800,
+    "ORIGINAL_CONTRACT_AMOUNT": 235590.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "September, 26 2017 19:43:24"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 184293.3600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "August, 08 2017 12:42:03"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 233786.3000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "September, 20 2017 15:46:48"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 657153.0700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "February, 06 2018 20:17:02"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 226239.4500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "August, 28 2017 13:52:19"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 694195.9200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "September, 29 2017 12:41:12"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 401106.4700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "September, 22 2017 17:03:40"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 711415.2200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Robert Feiler",
+    "EXECUTION_DATE": "July, 12 2018 17:47:51"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 1115668.4800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "November, 07 2017 14:19:38"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 2050187.7300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "April, 10 2018 14:52:31"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 391472.6300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "August, 30 2017 12:39:20"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 498244.8900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "August, 18 2017 13:32:56"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 1788706.8000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "April, 26 2018 17:31:51"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 280816.8400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "August, 29 2017 19:40:00"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 509390.2500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "September, 25 2017 12:46:25"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 193741.4600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "September, 25 2017 12:37:58"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 176271.7200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "September, 27 2017 17:57:36"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 558625.1000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "May, 10 2018 14:19:02"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 295159.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "May, 25 2018 13:59:46"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 191450.8500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "May, 15 2018 12:31:53"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 321524.1000,
+    "ORIGINAL_CONTRACT_AMOUNT": 365194.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "April, 18 2018 19:21:37"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 137338.7100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 21 2017 12:46:12"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 321740.3900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "July, 27 2017 17:16:35"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 241333.6300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "May, 21 2018 14:51:09"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 74672.5500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 11 2017 16:31:51"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 154881.9700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "September, 30 2017 10:35:49"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 166720.3000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 29 2017 13:13:49"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 995792.3300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "June, 15 2018 17:22:33"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 593329.9900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "August, 18 2017 13:33:57"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 1040414.2600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "August, 10 2017 00:54:47"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 169985.4200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "January, 09 2018 18:47:06"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 134323.7800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 11 2017 00:01:13"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 318746.4300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "January, 24 2018 14:41:00"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 260712.3100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "May, 01 2018 18:32:32"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 289206.6400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "August, 28 2017 16:28:40"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 134772.3400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 02 2017 00:26:50"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 234765.6300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Robert Feiler",
+    "EXECUTION_DATE": "August, 04 2017 13:39:53"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 342241.7000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "June, 28 2018 19:12:53"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 609801.3400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "August, 24 2017 12:39:02"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 1310119.2200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "August, 31 2017 20:45:56"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 887074.0900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 15 2017 13:42:05"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 457929.6900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 02 2017 00:25:15"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 225837.4700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "August, 28 2017 12:52:35"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 91203.2800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "August, 10 2017 15:09:57"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 1057522.6900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "May, 03 2018 20:43:18"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 629594.5800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "January, 31 2018 14:55:45"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 135069.7500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "July, 14 2017 12:13:47"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 147302.2400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 03 2017 12:55:41"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 184206.0600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 03 2017 12:57:19"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 1038530.4400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "September, 29 2017 19:01:48"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 139311.1000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "August, 11 2017 16:25:55"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 126410.7300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "August, 30 2017 16:40:28"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 293821.4400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 15 2018 14:44:24"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 280108.6800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 05 2017 10:36:21"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 531410.1400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "January, 05 2018 14:26:22"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 314001.2800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "October, 12 2017 16:33:21"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 235989.8100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "August, 15 2017 19:05:04"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 537779.8400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "April, 24 2018 17:02:52"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 115996.2400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "August, 09 2017 13:59:43"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 794060.8400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Robert Feiler",
+    "EXECUTION_DATE": "March, 16 2018 14:04:58"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 149829.6400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "October, 02 2017 14:34:19"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 11096.2400,
+    "ORIGINAL_CONTRACT_AMOUNT": 116073.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "August, 13 2018 12:37:17"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 119814.6900,
+    "ORIGINAL_CONTRACT_AMOUNT": 905998.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 22 2018 20:53:58"
+  },
+  {
+    "ACCOUNTANT": "Lisanne Gage",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 13255.4200,
+    "ORIGINAL_CONTRACT_AMOUNT": 183586.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "July, 12 2018 15:13:25"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 18160.4600,
+    "ORIGINAL_CONTRACT_AMOUNT": 169274.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "July, 20 2018 19:11:01"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 63055.3400,
+    "ORIGINAL_CONTRACT_AMOUNT": 1177692.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "October, 19 2018 19:24:34"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 18821.4900,
+    "ORIGINAL_CONTRACT_AMOUNT": 231444.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "August, 31 2018 13:30:02"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 173732.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 140159.7500,
+    "ORIGINAL_CONTRACT_AMOUNT": 1252438.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "August, 07 2018 13:40:31"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 153291.2300,
+    "ORIGINAL_CONTRACT_AMOUNT": 1010000.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "August, 02 2018 00:56:24"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 17715.9600,
+    "ORIGINAL_CONTRACT_AMOUNT": 140970.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "July, 26 2018 15:23:47"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 24956.0600,
+    "ORIGINAL_CONTRACT_AMOUNT": 193667.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "July, 19 2018 21:10:15"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 4453.5800,
+    "ORIGINAL_CONTRACT_AMOUNT": 208269.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "October, 10 2018 13:25:44"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 33788.5900,
+    "ORIGINAL_CONTRACT_AMOUNT": 273352.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "August, 29 2018 16:33:48"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 31797.8700,
+    "ORIGINAL_CONTRACT_AMOUNT": 222262.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "July, 05 2018 18:50:43"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 18097.8600,
+    "ORIGINAL_CONTRACT_AMOUNT": 176556.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": "September, 19 2018 13:33:12"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 48901.7500,
+    "ORIGINAL_CONTRACT_AMOUNT": 736128.0000,
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": "September, 25 2018 17:28:42"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 44589.0400,
+    "ORIGINAL_CONTRACT_AMOUNT": 385080.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "August, 20 2018 16:17:37"
+  },
+  {
+    "ACCOUNTANT": "Lisanne Gage",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 18862.6400,
+    "ORIGINAL_CONTRACT_AMOUNT": 130000.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "August, 07 2018 20:47:24"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 24200.8900,
+    "ORIGINAL_CONTRACT_AMOUNT": 222173.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "September, 24 2018 16:01:31"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 29548.1000,
+    "ORIGINAL_CONTRACT_AMOUNT": 510818.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "September, 27 2018 09:00:01"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 29778.8600,
+    "ORIGINAL_CONTRACT_AMOUNT": 243743.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "July, 31 2018 20:20:56"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 1228703.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 168805.6800,
+    "ORIGINAL_CONTRACT_AMOUNT": 190282.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": "July, 20 2018 15:23:09"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 21099.2900,
+    "ORIGINAL_CONTRACT_AMOUNT": 342242.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "October, 19 2018 18:43:04"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 161538.6900,
+    "ORIGINAL_CONTRACT_AMOUNT": 1085294.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "August, 13 2018 18:36:07"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 77568.2900,
+    "ORIGINAL_CONTRACT_AMOUNT": 455036.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "August, 30 2018 15:00:07"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 106460.0000,
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 8948.6200,
+    "ORIGINAL_CONTRACT_AMOUNT": 184419.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "September, 14 2018 15:00:13"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 0.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 336938.0000,
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": "October, 11 2018 22:17:43"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 1308300.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 15175.9300,
+    "ORIGINAL_CONTRACT_AMOUNT": 409620.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "October, 01 2018 21:11:25"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 349460.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 28227.0500,
+    "ORIGINAL_CONTRACT_AMOUNT": 173584.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": "September, 28 2018 14:06:33"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 222182.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 55912.8600,
+    "ORIGINAL_CONTRACT_AMOUNT": 428539.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 07 2018 20:47:57"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 1567.3300,
+    "ORIGINAL_CONTRACT_AMOUNT": 292078.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "August, 27 2018 18:01:04"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 76577.1800,
+    "ORIGINAL_CONTRACT_AMOUNT": 500000.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "August, 02 2018 15:32:24"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 84749.1200,
+    "ORIGINAL_CONTRACT_AMOUNT": 538664.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "August, 14 2018 19:44:19"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 20473.9200,
+    "ORIGINAL_CONTRACT_AMOUNT": 209455.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": "September, 26 2018 15:44:47"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 24504.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 185636.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "August, 29 2018 13:10:37"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 3916.1100,
+    "ORIGINAL_CONTRACT_AMOUNT": 168367.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "July, 31 2018 18:10:46"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 25058.3600,
+    "ORIGINAL_CONTRACT_AMOUNT": 235412.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "July, 31 2018 20:54:34"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 1986.4800,
+    "ORIGINAL_CONTRACT_AMOUNT": 387266.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": "August, 20 2018 13:28:12"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 938791.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "August, 23 2018 19:17:58"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 58556.2100,
+    "ORIGINAL_CONTRACT_AMOUNT": 496519.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "August, 09 2018 17:44:15"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 2072737.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 64875.5800,
+    "ORIGINAL_CONTRACT_AMOUNT": 498246.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": "July, 24 2018 17:39:41"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 32881.6000,
+    "ORIGINAL_CONTRACT_AMOUNT": 207316.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": "August, 31 2018 16:55:53"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 235553.0000,
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 0.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 162071.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "August, 23 2018 19:18:49"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 45643.7000,
+    "ORIGINAL_CONTRACT_AMOUNT": 498421.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": "August, 30 2018 16:55:48"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 29246.1400,
+    "ORIGINAL_CONTRACT_AMOUNT": 211383.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "July, 26 2018 16:51:03"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 96781.3400,
+    "ORIGINAL_CONTRACT_AMOUNT": 667311.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": "August, 07 2018 13:41:48"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 10780.2000,
+    "ORIGINAL_CONTRACT_AMOUNT": 212919.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "September, 28 2018 17:14:21"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 28078.3300,
+    "ORIGINAL_CONTRACT_AMOUNT": 174098.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": "July, 19 2018 19:30:48"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 5749.7200,
+    "ORIGINAL_CONTRACT_AMOUNT": 149177.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": "September, 04 2018 15:02:12"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 111600.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "August, 27 2018 17:59:00"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 14335.8600,
+    "ORIGINAL_CONTRACT_AMOUNT": 203376.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": "October, 19 2018 13:25:03"
+  },
+  {
+    "ACCOUNTANT": "Lisanne Gage",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 475000.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 160380.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "August, 15 2018 15:57:12"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 333828.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "September, 24 2018 18:47:25"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 17175.3200,
+    "ORIGINAL_CONTRACT_AMOUNT": 250000.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "August, 27 2018 12:24:12"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 81522.8900,
+    "ORIGINAL_CONTRACT_AMOUNT": 688237.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "September, 26 2018 21:04:13"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 64772.1800,
+    "ORIGINAL_CONTRACT_AMOUNT": 763140.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 07 2018 16:12:22"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 16169.7700,
+    "ORIGINAL_CONTRACT_AMOUNT": 159214.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "August, 31 2018 16:18:34"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 11519.2400,
+    "ORIGINAL_CONTRACT_AMOUNT": 169252.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "August, 08 2018 14:44:46"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 56606.7000,
+    "ORIGINAL_CONTRACT_AMOUNT": 576404.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "August, 07 2018 13:43:23"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 1052770.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 33769.0100,
+    "ORIGINAL_CONTRACT_AMOUNT": 356281.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 15 2018 14:43:40"
+  },
+  {
+    "ACCOUNTANT": "Lisanne Gage",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 328225.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 57551.0500,
+    "ORIGINAL_CONTRACT_AMOUNT": 630505.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "August, 09 2018 12:23:45"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 11954.6700,
+    "ORIGINAL_CONTRACT_AMOUNT": 159401.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": "August, 22 2018 21:01:22"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 221618.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 110619.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 15661.6800,
+    "ORIGINAL_CONTRACT_AMOUNT": 141172.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "August, 06 2018 14:46:46"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 255000.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 340338.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 25609.8800,
+    "ORIGINAL_CONTRACT_AMOUNT": 197238.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "August, 27 2018 12:25:01"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 27589.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": 464940.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "September, 21 2018 12:44:41"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 307500.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "October, 16 2018 16:57:11"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 37206.4600,
+    "ORIGINAL_CONTRACT_AMOUNT": 236408.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "September, 14 2018 14:51:47"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 28674.9300,
+    "ORIGINAL_CONTRACT_AMOUNT": 192969.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "September, 27 2018 13:37:41"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 53151.4700,
+    "ORIGINAL_CONTRACT_AMOUNT": 553896.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "August, 29 2018 18:43:32"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 6351.1000,
+    "ORIGINAL_CONTRACT_AMOUNT": 227650.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "September, 26 2018 13:22:35"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 21141.1800,
+    "ORIGINAL_CONTRACT_AMOUNT": 243450.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "August, 27 2018 18:02:40"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 144222.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": 36290.7100,
+    "ORIGINAL_CONTRACT_AMOUNT": 727027.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "October, 24 2018 21:37:32"
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 80513.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 104400.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 62574.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 62574.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 166136.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 196997.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 139679.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 250193.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 154500.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "After-school Programs and Summer Camps",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 49590.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 24590.8500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 08 2017 19:27:51"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 34932.4600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "July, 28 2017 17:57:50"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 34999.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 10 2017 18:48:54"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 49184.8200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 09 2017 14:00:54"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 20000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 09 2017 14:02:49"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 34988.9900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "July, 27 2017 19:55:29"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 19648.7900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 22 2017 19:54:48"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 50000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 02 2017 00:32:07"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 49999.7800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 08 2017 16:33:08"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 20000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 02 2017 00:31:03"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 20000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "July, 28 2017 17:58:37"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 19999.5600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 11 2017 13:22:39"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 19999.8000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 09 2017 14:03:39"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 19564.5600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 15 2017 19:05:44"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 18578.1700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 10 2017 17:49:03"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 35000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 15 2017 19:39:41"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 19331.8600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "October, 16 2017 17:20:03"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 20000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 30 2017 19:12:42"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 12450.9100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 21 2017 17:28:28"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 19500.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "August, 21 2017 17:20:59"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Capacity Building",
+    "YTD_EXPENDITURES": 19929.5000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "July, 28 2017 18:55:19"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": 77795.6300,
+    "ORIGINAL_CONTRACT_AMOUNT": 78750.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "January, 30 2018 21:45:47"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": 3194212.4300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "July, 02 2018 11:23:39"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": 1299509.8100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "June, 07 2018 19:02:22"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": 377849.8200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "June, 26 2018 11:47:48"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": 274711.5100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "June, 26 2018 11:53:44"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": 1480553.2900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "August, 29 2018 19:24:14"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": 186055.6000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "July, 25 2018 17:48:09"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": 202188.2400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "June, 26 2018 11:54:43"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "October, 03 2017 15:13:24"
+  },
+  {
+    "ACCOUNTANT": "Shirley Emery",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 200000.0000,
+    "CONTRACT_MANAGER": "Lianne Betancourt",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 600000.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "September, 20 2018 13:00:08"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": 200000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 12000000.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "August, 20 2018 13:28:47"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 365000.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "September, 19 2018 13:31:43"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Childcare Quality Improvements",
+    "YTD_EXPENDITURES": 6178.5600,
+    "ORIGINAL_CONTRACT_AMOUNT": 250000.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "August, 21 2018 17:49:11"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Cross-funder Collaboration",
+    "YTD_EXPENDITURES": 62323.0800,
+    "ORIGINAL_CONTRACT_AMOUNT": 125000.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "August, 28 2018 17:51:06"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Cross-funder Collaboration",
+    "YTD_EXPENDITURES": 4468.8300,
+    "ORIGINAL_CONTRACT_AMOUNT": 50000.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "October, 04 2018 12:05:09"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Cross-funder Collaboration",
+    "YTD_EXPENDITURES": 2198.9400,
+    "ORIGINAL_CONTRACT_AMOUNT": 100000.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "October, 23 2018 12:11:28"
+  },
+  {
+    "ACCOUNTANT": "Lisanne Gage",
+    "INITIATIVE": "Cross-funder Collaboration",
+    "YTD_EXPENDITURES": 0.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 100000.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "October, 23 2018 16:05:44"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Cross-funder Collaboration",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 235000.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Cross-funder Collaboration",
+    "YTD_EXPENDITURES": 99910.9200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "July, 13 2018 20:27:03"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Cross-funder Collaboration",
+    "YTD_EXPENDITURES": 55000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 55000.0000,
+    "CONTRACT_MANAGER": "Samuel McKinnon",
+    "EXECUTION_DATE": "December, 18 2017 13:48:01"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Cross-funder Collaboration",
+    "YTD_EXPENDITURES": 234998.5000,
+    "ORIGINAL_CONTRACT_AMOUNT": 235000.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "October, 31 2017 19:13:43"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Cross-funder Collaboration",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 100000.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "August, 14 2018 13:56:46"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Cross-funder Collaboration",
+    "YTD_EXPENDITURES": 91612.4200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "November, 06 2017 17:25:49"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Early Care and Education Slots",
+    "YTD_EXPENDITURES": 420000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "March, 28 2018 23:11:49"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Early Care and Education Slots",
+    "YTD_EXPENDITURES": 344393.1800,
+    "ORIGINAL_CONTRACT_AMOUNT": 1230000.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "July, 31 2018 17:18:05"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Early Care and Education Slots",
+    "YTD_EXPENDITURES": 240075.7400,
+    "ORIGINAL_CONTRACT_AMOUNT": 466667.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "July, 13 2018 20:26:19"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Early Care and Education Slots",
+    "YTD_EXPENDITURES": 445616.2400,
+    "ORIGINAL_CONTRACT_AMOUNT": 866667.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "July, 27 2018 16:33:12"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Early Care and Education Slots",
+    "YTD_EXPENDITURES": 150000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "January, 25 2018 17:19:11"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Early Care and Education Slots",
+    "YTD_EXPENDITURES": 1230000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "March, 07 2018 13:32:50"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Early Care and Education Slots",
+    "YTD_EXPENDITURES": 650000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "October, 02 2017 19:17:02"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Early Care and Education Slots",
+    "YTD_EXPENDITURES": 350000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "October, 02 2017 19:17:50"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Early Care and Education Slots",
+    "YTD_EXPENDITURES": 57932.0700,
+    "ORIGINAL_CONTRACT_AMOUNT": 100589.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "August, 06 2018 16:11:34"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Early Care and Education Slots",
+    "YTD_EXPENDITURES": 120143.7100,
+    "ORIGINAL_CONTRACT_AMOUNT": 420000.0000,
+    "CONTRACT_MANAGER": "Jorge Gonzalez",
+    "EXECUTION_DATE": "July, 28 2018 17:58:26"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 10441.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": 193127.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "September, 07 2018 12:58:40"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 225916.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "September, 20 2018 13:13:41"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 353663.3000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "October, 02 2017 16:50:14"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 239999.6000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "March, 08 2018 14:56:40"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 271772.0200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "October, 02 2017 19:15:52"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 216009.0500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "October, 02 2017 19:01:27"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 104492.2600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "October, 02 2017 19:04:25"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 204737.8000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "October, 02 2017 16:49:44"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 359653.0100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "October, 02 2017 19:16:19"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 190539.8600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "May, 10 2018 15:04:49"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 22571.7100,
+    "ORIGINAL_CONTRACT_AMOUNT": 200000.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "August, 07 2018 13:42:37"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 11751.4800,
+    "ORIGINAL_CONTRACT_AMOUNT": 233677.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "October, 18 2018 20:16:56"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 36679.0800,
+    "ORIGINAL_CONTRACT_AMOUNT": 290943.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "August, 14 2018 13:55:36"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 20800.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": 191395.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "August, 20 2018 17:24:53"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 41492.4300,
+    "ORIGINAL_CONTRACT_AMOUNT": 301808.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "August, 17 2018 18:56:43"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Childhood",
+    "YTD_EXPENDITURES": 4773.3300,
+    "ORIGINAL_CONTRACT_AMOUNT": 93887.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "August, 15 2018 18:09:04"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 214268.7000,
+    "ORIGINAL_CONTRACT_AMOUNT": 217941.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "May, 08 2018 18:54:05"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 147268.2400,
+    "ORIGINAL_CONTRACT_AMOUNT": 154440.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "April, 04 2018 14:57:19"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 158334.8800,
+    "ORIGINAL_CONTRACT_AMOUNT": 159923.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "April, 17 2018 19:06:31"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 133111.4700,
+    "ORIGINAL_CONTRACT_AMOUNT": 136209.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "May, 01 2018 13:57:00"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 94696.6400,
+    "ORIGINAL_CONTRACT_AMOUNT": 100000.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "April, 10 2018 15:03:53"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 463308.6300,
+    "ORIGINAL_CONTRACT_AMOUNT": 494308.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "March, 07 2018 16:24:18"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 294935.9200,
+    "ORIGINAL_CONTRACT_AMOUNT": 310022.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "March, 09 2018 16:53:35"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 31015.2600,
+    "ORIGINAL_CONTRACT_AMOUNT": 37800.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "March, 13 2018 10:26:32"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 1013269.7400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "April, 04 2018 14:58:40"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 49999.9500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "October, 02 2017 19:23:56"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 262773.6000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "July, 20 2017 19:39:49"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 87995.6500,
+    "ORIGINAL_CONTRACT_AMOUNT": 1300000.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "September, 08 2018 00:12:01"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Early Intervention",
+    "YTD_EXPENDITURES": 13846.1400,
+    "ORIGINAL_CONTRACT_AMOUNT": 300000.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "August, 14 2018 13:56:13"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Family & Neighborhood Supports - Family Strengthening",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 316521.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "September, 12 2018 15:34:29"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Family & Neighborhood Supports - Family Strengthening",
+    "YTD_EXPENDITURES": 144856.9700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": "October, 02 2017 20:06:56"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Family & Neighborhood Supports - Family Strengthening",
+    "YTD_EXPENDITURES": 315074.7700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "June, 14 2018 13:51:39"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Family & Neighborhood Supports - Family Strengthening",
+    "YTD_EXPENDITURES": 291204.0700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "October, 02 2017 20:05:53"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Family & Neighborhood Supports - Family Strengthening",
+    "YTD_EXPENDITURES": 32813.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": 172042.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "October, 03 2018 18:06:22"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Family & Neighborhood Supports - Family Strengthening",
+    "YTD_EXPENDITURES": 3180.0100,
+    "ORIGINAL_CONTRACT_AMOUNT": 83713.0000,
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": "October, 15 2018 13:24:42"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Family & Neighborhood Supports - Family Strengthening",
+    "YTD_EXPENDITURES": 34984.8200,
+    "ORIGINAL_CONTRACT_AMOUNT": 244800.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "August, 17 2018 12:49:34"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Family & Neighborhood Supports - Family Strengthening",
+    "YTD_EXPENDITURES": 245820.8400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "October, 27 2017 16:29:50"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Food and Nutrition",
+    "YTD_EXPENDITURES": 801176.6500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "July, 26 2017 15:52:47"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Food and Nutrition",
+    "YTD_EXPENDITURES": 81874.0300,
+    "ORIGINAL_CONTRACT_AMOUNT": 600000.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "August, 20 2018 17:24:10"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 865158.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 504734.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "October, 17 2018 18:56:49"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 102273.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": "September, 24 2018 18:49:10"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 44433.1200,
+    "ORIGINAL_CONTRACT_AMOUNT": 658801.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "October, 02 2018 22:04:06"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 3749.2500,
+    "ORIGINAL_CONTRACT_AMOUNT": 209616.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "October, 19 2018 19:26:57"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 301946.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 40446.3900,
+    "ORIGINAL_CONTRACT_AMOUNT": 242955.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "September, 12 2018 18:02:02"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 315615.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "September, 26 2018 19:14:01"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 33886.8600,
+    "ORIGINAL_CONTRACT_AMOUNT": 270000.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "July, 26 2018 16:48:42"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 109441.4300,
+    "ORIGINAL_CONTRACT_AMOUNT": 852750.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "October, 05 2018 16:07:45"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 639951.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 6071.2000,
+    "ORIGINAL_CONTRACT_AMOUNT": 114350.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "October, 24 2018 11:54:26"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 30396.7500,
+    "ORIGINAL_CONTRACT_AMOUNT": 152284.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "September, 25 2018 16:07:35"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 25896.7300,
+    "ORIGINAL_CONTRACT_AMOUNT": 294818.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "October, 03 2018 18:46:44"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 16091.5600,
+    "ORIGINAL_CONTRACT_AMOUNT": 220753.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "October, 05 2018 19:57:46"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 131557.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": "October, 23 2018 16:04:07"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 118678.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 235200.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "September, 26 2018 19:26:51"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 0.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 781840.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "August, 31 2018 13:28:43"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 279668.0000,
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 21997.2500,
+    "ORIGINAL_CONTRACT_AMOUNT": 185511.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "September, 25 2018 15:47:26"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 96279.9900,
+    "ORIGINAL_CONTRACT_AMOUNT": 649999.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "September, 08 2018 00:10:46"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 75787.7200,
+    "ORIGINAL_CONTRACT_AMOUNT": 620000.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "August, 31 2018 13:29:26"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 150196.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 109175.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "October, 17 2018 13:29:05"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 49227.6500,
+    "ORIGINAL_CONTRACT_AMOUNT": 315325.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "September, 24 2018 13:36:55"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 52144.8400,
+    "ORIGINAL_CONTRACT_AMOUNT": 488495.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "August, 30 2018 12:51:38"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 45880.9000,
+    "ORIGINAL_CONTRACT_AMOUNT": 406658.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "September, 25 2018 20:46:34"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 62622.2500,
+    "ORIGINAL_CONTRACT_AMOUNT": 538258.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "September, 07 2018 12:59:46"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 25968.1900,
+    "ORIGINAL_CONTRACT_AMOUNT": 260989.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "September, 11 2018 16:47:55"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 0.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 158488.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "September, 28 2018 18:11:38"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 19566.3000,
+    "ORIGINAL_CONTRACT_AMOUNT": 265311.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "September, 29 2018 15:36:05"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 8419.5200,
+    "ORIGINAL_CONTRACT_AMOUNT": 187210.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "September, 29 2018 10:06:41"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 5760.0100,
+    "ORIGINAL_CONTRACT_AMOUNT": 116936.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "October, 24 2018 21:36:41"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 6531.4100,
+    "ORIGINAL_CONTRACT_AMOUNT": 140092.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "October, 24 2018 21:35:11"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 135407.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "October, 29 2018 16:04:19"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 25350.5200,
+    "ORIGINAL_CONTRACT_AMOUNT": 448006.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "September, 06 2018 16:27:57"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 33838.8000,
+    "ORIGINAL_CONTRACT_AMOUNT": 347841.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": "October, 03 2018 14:56:27"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 62870.5000,
+    "ORIGINAL_CONTRACT_AMOUNT": 444240.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "October, 10 2018 14:50:21"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 173170.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 29763.1700,
+    "ORIGINAL_CONTRACT_AMOUNT": 497008.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "September, 26 2018 13:23:09"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 72660.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 256550.5700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "August, 29 2017 15:40:24"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 129613.9500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "September, 01 2017 13:30:10"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 407941.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "June, 26 2018 14:53:19"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 289430.8200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "January, 19 2018 13:17:37"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 228908.7500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "October, 12 2017 16:34:21"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 169886.0100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "September, 29 2017 19:03:57"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 221418.8100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "September, 22 2017 14:20:16"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 359441.1800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "May, 29 2018 15:02:38"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 316239.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "November, 01 2017 15:57:28"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 403312.8400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "July, 12 2018 17:24:01"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 282782.0400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "October, 17 2017 18:14:37"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 376404.6900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "April, 30 2018 12:59:14"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 416250.1800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "September, 29 2017 20:05:14"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 371208.9800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "May, 21 2018 15:47:49"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 513623.9300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "May, 15 2018 14:48:58"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 233863.9800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "September, 29 2017 20:03:57"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 571862.7500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "May, 30 2018 13:42:06"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 176687.9400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "February, 21 2018 16:44:53"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 5040.7400,
+    "ORIGINAL_CONTRACT_AMOUNT": 156645.0000,
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": "October, 24 2018 11:55:08"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 199740.5500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Robert Feiler",
+    "EXECUTION_DATE": "January, 04 2018 20:48:17"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 104545.9900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "February, 19 2018 23:56:42"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 367716.3200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "May, 24 2018 12:36:06"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 305572.1300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "October, 02 2017 14:33:28"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 519328.8000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "April, 04 2018 14:59:45"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 597035.8400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "March, 22 2018 18:31:05"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 232178.2800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "September, 28 2017 18:10:59"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 231437.1300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "February, 26 2018 13:54:38"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 451168.3400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "October, 03 2017 19:12:37"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 774279.5800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "September, 20 2017 13:51:58"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 286840.2800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "January, 29 2018 19:17:51"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Group, Individual, and Home Visitation",
+    "YTD_EXPENDITURES": 370185.9700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "February, 05 2018 19:39:05"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Health - Family Strengthening",
+    "YTD_EXPENDITURES": 255490.9100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "November, 01 2017 19:54:06"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Health - Family Strengthening",
+    "YTD_EXPENDITURES": 429523.1500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "October, 02 2017 19:25:53"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Health - Family Strengthening",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 254883.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "October, 24 2018 21:35:56"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Health - Family Strengthening",
+    "YTD_EXPENDITURES": 34795.7500,
+    "ORIGINAL_CONTRACT_AMOUNT": 375323.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "October, 16 2018 19:30:35"
+  },
+  {
+    "ACCOUNTANT": "Shirley Emery",
+    "INITIATIVE": "Information Technology",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 215000.0000,
+    "CONTRACT_MANAGER": "Stephanie Sylvestre",
+    "EXECUTION_DATE": "October, 02 2017 20:26:38"
+  },
+  {
+    "ACCOUNTANT": "Shirley Emery",
+    "INITIATIVE": "Information Technology",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 200000.0000,
+    "CONTRACT_MANAGER": "Stephanie Sylvestre",
+    "EXECUTION_DATE": "October, 02 2017 20:24:23"
+  },
+  {
+    "ACCOUNTANT": "Shirley Emery",
+    "INITIATIVE": "Information Technology",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 86500.0000,
+    "CONTRACT_MANAGER": "Stephanie Sylvestre",
+    "EXECUTION_DATE": "September, 18 2018 16:02:37"
+  },
+  {
+    "ACCOUNTANT": "Shirley Emery",
+    "INITIATIVE": "Information Technology",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 141490.0000,
+    "CONTRACT_MANAGER": "Stephanie Sylvestre",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Injury Prevention",
+    "YTD_EXPENDITURES": 270980.3600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "July, 31 2018 17:19:03"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 29381.2400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "March, 07 2018 13:33:53"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 23430.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "February, 28 2018 19:14:55"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 74853.7300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "October, 02 2017 16:34:33"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 51014.6000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "October, 02 2017 16:36:47"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 35916.6300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "October, 02 2017 16:35:46"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 49153.3800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "October, 02 2017 16:31:00"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 80730.8600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "March, 20 2018 13:24:23"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 86194.9900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "October, 02 2017 16:33:05"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 67530.3000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "April, 16 2018 13:47:56"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 38000.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "October, 02 2017 16:48:08"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 69636.8700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "October, 02 2017 16:29:20"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 87704.9700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "October, 02 2017 16:30:28"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Innovation Lab",
+    "YTD_EXPENDITURES": 60243.0600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "October, 02 2017 16:28:11"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Insurance Enrollment",
+    "YTD_EXPENDITURES": 173326.4400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "June, 28 2018 12:44:44"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Insurance Enrollment",
+    "YTD_EXPENDITURES": 212362.3600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "June, 29 2018 21:04:01"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Insurance Enrollment",
+    "YTD_EXPENDITURES": 145755.8400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "June, 29 2018 13:25:04"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Insurance Enrollment",
+    "YTD_EXPENDITURES": 152931.5600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "June, 28 2018 15:52:29"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Insurance Enrollment",
+    "YTD_EXPENDITURES": 26427.7900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "June, 28 2018 19:11:46"
+  },
+  {
+    "ACCOUNTANT": "Andrea Roberts",
+    "INITIATIVE": "Non-Service Contract",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 25500.0000,
+    "CONTRACT_MANAGER": "Erika Dambreville",
+    "EXECUTION_DATE": "November, 29 2017 16:53:15"
+  },
+  {
+    "ACCOUNTANT": "Viviana Moncada",
+    "INITIATIVE": "Non-Service Contract",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 162200.0000,
+    "CONTRACT_MANAGER": "Erika Dambreville",
+    "EXECUTION_DATE": "December, 22 2017 13:22:28"
+  },
+  {
+    "ACCOUNTANT": "Shirley Emery",
+    "INITIATIVE": "Non-Service Contract",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 26250.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": "October, 11 2018 22:19:51"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Parenting",
+    "YTD_EXPENDITURES": 40446.5600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "May, 01 2018 23:15:39"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Parenting - Family Strengthening",
+    "YTD_EXPENDITURES": 484209.0200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "October, 02 2017 20:03:02"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Parenting - Family Strengthening",
+    "YTD_EXPENDITURES": 208162.4300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "October, 02 2017 20:03:33"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Parenting - Family Strengthening",
+    "YTD_EXPENDITURES": 189366.8900,
+    "ORIGINAL_CONTRACT_AMOUNT": 501441.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "October, 25 2017 20:36:10"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Parenting - Family Strengthening",
+    "YTD_EXPENDITURES": 442282.2200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "July, 31 2018 19:43:10"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Parenting - Family Strengthening",
+    "YTD_EXPENDITURES": 25745.7100,
+    "ORIGINAL_CONTRACT_AMOUNT": 371773.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "October, 15 2018 19:38:43"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Parenting - Family Strengthening",
+    "YTD_EXPENDITURES": 22945.3300,
+    "ORIGINAL_CONTRACT_AMOUNT": 401659.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "September, 12 2018 15:35:21"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Parenting - Family Strengthening",
+    "YTD_EXPENDITURES": 12250.9700,
+    "ORIGINAL_CONTRACT_AMOUNT": 180607.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "September, 26 2018 19:19:29"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Parenting - Read to Learn",
+    "YTD_EXPENDITURES": 7759.8000,
+    "ORIGINAL_CONTRACT_AMOUNT": 400000.0000,
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": "September, 26 2018 19:16:28"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Parenting - Read to Learn",
+    "YTD_EXPENDITURES": 37750.7200,
+    "ORIGINAL_CONTRACT_AMOUNT": 350000.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "October, 02 2018 17:49:53"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Parenting - Read to Learn",
+    "YTD_EXPENDITURES": 49502.2800,
+    "ORIGINAL_CONTRACT_AMOUNT": 355664.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "September, 10 2018 19:30:19"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Parenting - Read to Learn",
+    "YTD_EXPENDITURES": 250273.6900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": "March, 13 2018 14:27:44"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Parenting - Read to Learn",
+    "YTD_EXPENDITURES": 327153.4300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "August, 02 2017 00:23:43"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Parenting - Read to Learn",
+    "YTD_EXPENDITURES": 351410.9900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "May, 31 2018 16:28:43"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 645000.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 59756.5600,
+    "ORIGINAL_CONTRACT_AMOUNT": 411948.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "August, 06 2018 15:30:24"
+  },
+  {
+    "ACCOUNTANT": "Brenda Galarza",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 34989.1800,
+    "ORIGINAL_CONTRACT_AMOUNT": 1060000.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "August, 21 2018 17:48:26"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 500000.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 9425.5900,
+    "ORIGINAL_CONTRACT_AMOUNT": 400000.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "September, 14 2018 17:37:56"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 72014.6300,
+    "ORIGINAL_CONTRACT_AMOUNT": 581034.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "July, 17 2018 22:47:34"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 483368.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 565000.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "June, 29 2018 18:40:14"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 507801.6400,
+    "ORIGINAL_CONTRACT_AMOUNT": 509544.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "March, 22 2018 18:32:11"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 486011.3200,
+    "ORIGINAL_CONTRACT_AMOUNT": 506000.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "January, 04 2018 20:53:05"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 477285.7100,
+    "ORIGINAL_CONTRACT_AMOUNT": 500000.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "January, 05 2018 16:49:27"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 639290.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": 645000.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "December, 19 2017 18:52:34"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 613430.6300,
+    "ORIGINAL_CONTRACT_AMOUNT": 700000.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "January, 08 2018 14:12:01"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 343091.7100,
+    "ORIGINAL_CONTRACT_AMOUNT": 500000.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "January, 05 2018 17:25:41"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 330975.5100,
+    "ORIGINAL_CONTRACT_AMOUNT": 400000.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "January, 08 2018 14:08:55"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 545277.8300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "January, 08 2018 20:20:32"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 572651.7400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": "February, 14 2018 20:30:52"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 388385.7700,
+    "ORIGINAL_CONTRACT_AMOUNT": 411948.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "April, 13 2018 15:58:23"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 484734.9100,
+    "ORIGINAL_CONTRACT_AMOUNT": 500000.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "February, 13 2018 21:32:58"
+  },
+  {
+    "ACCOUNTANT": "Brenda Galarza",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 1017561.9000,
+    "ORIGINAL_CONTRACT_AMOUNT": 1060000.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "January, 03 2018 16:44:49"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 736340.9500,
+    "ORIGINAL_CONTRACT_AMOUNT": 788199.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "February, 01 2018 16:26:56"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 788199.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 63977.7000,
+    "ORIGINAL_CONTRACT_AMOUNT": 506000.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "July, 31 2018 17:53:50"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 500000.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "October, 11 2018 22:16:43"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 58815.8700,
+    "ORIGINAL_CONTRACT_AMOUNT": 565000.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "August, 16 2018 16:13:46"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 34833.4900,
+    "ORIGINAL_CONTRACT_AMOUNT": 700000.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "October, 16 2018 19:31:22"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 500000.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": 78068.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": 509544.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "September, 18 2018 16:08:28"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Place-based/Countywide Community Partnerships",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 608089.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": "October, 11 2018 15:12:28"
+  },
+  {
+    "ACCOUNTANT": "Andrea Roberts",
+    "INITIATIVE": "Public Awareness and Program Promotion",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 163785.0000,
+    "CONTRACT_MANAGER": "Erika Dambreville",
+    "EXECUTION_DATE": "October, 30 2017 14:11:26"
+  },
+  {
+    "ACCOUNTANT": "Andrea Roberts",
+    "INITIATIVE": "Public Awareness and Program Promotion",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 156215.0000,
+    "CONTRACT_MANAGER": "Erika Dambreville",
+    "EXECUTION_DATE": "November, 14 2017 13:26:34"
+  },
+  {
+    "ACCOUNTANT": "Andrea Roberts",
+    "INITIATIVE": "Public Awareness and Program Promotion",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 50000.0000,
+    "CONTRACT_MANAGER": "Erika Dambreville",
+    "EXECUTION_DATE": "November, 14 2017 18:08:31"
+  },
+  {
+    "ACCOUNTANT": "Andrea Roberts",
+    "INITIATIVE": "Public Awareness and Program Promotion",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 276000.0000,
+    "CONTRACT_MANAGER": "Erika Dambreville",
+    "EXECUTION_DATE": "November, 13 2017 15:30:13"
+  },
+  {
+    "ACCOUNTANT": "Andrea Roberts",
+    "INITIATIVE": "Public Awareness and Program Promotion",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 1031000.0000,
+    "CONTRACT_MANAGER": "Erika Dambreville",
+    "EXECUTION_DATE": "June, 25 2018 12:39:51"
+  },
+  {
+    "ACCOUNTANT": "Andrea Roberts",
+    "INITIATIVE": "Public Awareness and Program Promotion",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 280000.0000,
+    "CONTRACT_MANAGER": "Erika Dambreville",
+    "EXECUTION_DATE": "July, 18 2018 20:36:17"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 77952.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 400000.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "August, 02 2018 13:58:39"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 553202.6100,
+    "ORIGINAL_CONTRACT_AMOUNT": 4399000.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "August, 03 2018 19:44:56"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 89623.2200,
+    "ORIGINAL_CONTRACT_AMOUNT": 93600.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "April, 04 2018 18:00:43"
+  },
+  {
+    "ACCOUNTANT": "Shirley Emery",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 500000.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "January, 04 2018 18:02:28"
+  },
+  {
+    "ACCOUNTANT": "Lisanne Gage",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 183872.6300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "June, 29 2018 16:49:22"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 1580132.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "April, 25 2018 19:13:59"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 1278712.6300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "April, 25 2018 18:35:17"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 1568706.5200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "April, 26 2018 16:50:59"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 245395.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": "January, 29 2018 19:16:58"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 1894962.4200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "April, 11 2018 18:19:16"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 1078202.0100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "April, 06 2018 13:40:07"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 612060.3900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "June, 21 2018 17:28:36"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 142150.0800,
+    "ORIGINAL_CONTRACT_AMOUNT": 3481000.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "June, 28 2018 14:43:42"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 196819.7200,
+    "ORIGINAL_CONTRACT_AMOUNT": 1395000.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "August, 10 2018 11:55:19"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 489937.5800,
+    "ORIGINAL_CONTRACT_AMOUNT": 2299000.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "July, 30 2018 21:16:39"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": 586601.9500,
+    "ORIGINAL_CONTRACT_AMOUNT": 3649000.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "July, 10 2018 19:04:39"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 1027000.0000,
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "August, 24 2018 14:07:59"
+  },
+  {
+    "ACCOUNTANT": "Shirley Emery",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 500000.0000,
+    "CONTRACT_MANAGER": "Jennifer Richiez",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "School-based Health",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 174100.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Summer Reading Enhancements",
+    "YTD_EXPENDITURES": 669521.6600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "October, 02 2017 20:07:37"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Summer Reading Enhancements",
+    "YTD_EXPENDITURES": 504456.4200,
+    "ORIGINAL_CONTRACT_AMOUNT": 882168.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "August, 20 2018 13:30:04"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Supports for Quality Program Implementation",
+    "YTD_EXPENDITURES": 199765.8400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "September, 21 2017 14:46:01"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Supports for Quality Program Implementation",
+    "YTD_EXPENDITURES": 716846.8700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "April, 13 2018 12:43:18"
+  },
+  {
+    "ACCOUNTANT": "Lisanne Gage",
+    "INITIATIVE": "Supports for Quality Program Implementation",
+    "YTD_EXPENDITURES": 683942.9600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "August, 23 2017 12:06:23"
+  },
+  {
+    "ACCOUNTANT": "Lisanne Gage",
+    "INITIATIVE": "Supports for Quality Program Implementation",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 661676.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "October, 24 2018 21:34:23"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Supports for Quality Program Implementation",
+    "YTD_EXPENDITURES": 111010.2000,
+    "ORIGINAL_CONTRACT_AMOUNT": 788000.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": "October, 05 2018 18:55:35"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 63676.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": "October, 19 2018 18:43:55"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 146841.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 48696.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": 592207.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "October, 02 2018 16:09:54"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 9812.1100,
+    "ORIGINAL_CONTRACT_AMOUNT": 274208.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "October, 10 2018 16:26:38"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 6405.9600,
+    "ORIGINAL_CONTRACT_AMOUNT": 285280.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "October, 18 2018 15:00:33"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 4378.2300,
+    "ORIGINAL_CONTRACT_AMOUNT": 162168.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "October, 10 2018 17:43:40"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 352410.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "October, 04 2018 21:31:20"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 117000.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "October, 29 2018 14:33:49"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 20445.5900,
+    "ORIGINAL_CONTRACT_AMOUNT": 187434.0000,
+    "CONTRACT_MANAGER": "Zachary Glembin",
+    "EXECUTION_DATE": "September, 21 2018 12:43:41"
+  },
+  {
+    "ACCOUNTANT": "Lisanne Gage",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 512725.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 1245328.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 290097.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 18945.1000,
+    "ORIGINAL_CONTRACT_AMOUNT": 181782.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": "October, 17 2018 16:17:01"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 80511.0000,
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 75600.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 30571.6200,
+    "ORIGINAL_CONTRACT_AMOUNT": 289256.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "September, 26 2018 19:17:52"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 364434.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 285600.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Lisanne Gage",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 210080.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 457043.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 195811.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 84486.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 135700.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 126133.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 127200.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 38280.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 155907.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 83577.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 251926.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 169870.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 113696.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 146400.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 119383.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 42744.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 128100.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 174119.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 202938.0000,
+    "CONTRACT_MANAGER": "",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 128151.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 20011.6000,
+    "ORIGINAL_CONTRACT_AMOUNT": 195858.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "October, 04 2018 17:56:28"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 172800.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "October, 29 2018 17:16:38"
+  },
+  {
+    "ACCOUNTANT": "Lisanne Gage",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 36223.2500,
+    "ORIGINAL_CONTRACT_AMOUNT": 257904.0000,
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "September, 25 2018 20:42:00"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 656565.0000,
+    "CONTRACT_MANAGER": "Patricia Leal",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 27122.2600,
+    "ORIGINAL_CONTRACT_AMOUNT": 189000.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "September, 20 2018 16:12:22"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 0.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 83448.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "October, 11 2018 14:16:48"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 210840.0000,
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 7120.3400,
+    "ORIGINAL_CONTRACT_AMOUNT": 55872.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "October, 05 2018 22:20:42"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 225000.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "September, 26 2018 19:28:06"
+  },
+  {
+    "ACCOUNTANT": "Wikendy Augustin",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 33223.8900,
+    "ORIGINAL_CONTRACT_AMOUNT": 186208.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "August, 20 2018 13:27:23"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 17278.8400,
+    "ORIGINAL_CONTRACT_AMOUNT": 156871.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "August, 06 2018 14:11:52"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 387901.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": "October, 12 2018 16:12:29"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 18192.1600,
+    "ORIGINAL_CONTRACT_AMOUNT": 336391.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "October, 19 2018 19:25:50"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 113893.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "October, 26 2018 09:48:04"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 14235.0900,
+    "ORIGINAL_CONTRACT_AMOUNT": 164248.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "September, 18 2018 16:01:38"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 23286.3600,
+    "ORIGINAL_CONTRACT_AMOUNT": 161927.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "September, 04 2018 15:19:22"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 39891.8600,
+    "ORIGINAL_CONTRACT_AMOUNT": 375000.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 23 2018 20:41:31"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 63771.3900,
+    "ORIGINAL_CONTRACT_AMOUNT": 351545.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "September, 24 2018 13:35:52"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 48230.4500,
+    "ORIGINAL_CONTRACT_AMOUNT": 302634.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "September, 24 2018 16:57:27"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 91758.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "October, 23 2018 16:04:48"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 1498.5000,
+    "ORIGINAL_CONTRACT_AMOUNT": 179823.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "September, 12 2018 15:33:44"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 38205.1000,
+    "ORIGINAL_CONTRACT_AMOUNT": 244170.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "August, 13 2018 12:34:17"
+  },
+  {
+    "ACCOUNTANT": "Lisanne Gage",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 195262.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "October, 22 2018 13:08:51"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 12307.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": 257520.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "October, 19 2018 18:44:42"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 0.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 211511.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "October, 09 2018 09:06:56"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 504019.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 11398.7700,
+    "ORIGINAL_CONTRACT_AMOUNT": 271040.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "October, 18 2018 20:17:43"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 240673.0000,
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 3457.3900,
+    "ORIGINAL_CONTRACT_AMOUNT": 115033.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "October, 17 2018 13:28:38"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 7765.0400,
+    "ORIGINAL_CONTRACT_AMOUNT": 169344.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "October, 22 2018 14:26:30"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 0.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 98975.0000,
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": "October, 11 2018 22:18:30"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 12074.5000,
+    "ORIGINAL_CONTRACT_AMOUNT": 162346.0000,
+    "CONTRACT_MANAGER": "Blake Brown",
+    "EXECUTION_DATE": "October, 09 2018 19:00:52"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 297635.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 24235.5100,
+    "ORIGINAL_CONTRACT_AMOUNT": 279650.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "October, 11 2018 22:19:10"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 416533.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "October, 22 2018 13:06:56"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 8509.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": 371089.0000,
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "October, 16 2018 19:48:53"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 7515.1900,
+    "ORIGINAL_CONTRACT_AMOUNT": 195750.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": "September, 29 2018 10:07:48"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": 499800.0000,
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 164885.1700,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "August, 04 2017 13:38:40"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 259908.1300,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "September, 29 2017 19:05:23"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 148742.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "August, 08 2017 18:24:33"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 427332.4000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "March, 26 2018 16:17:12"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 141147.8100,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Robert Feiler",
+    "EXECUTION_DATE": "July, 28 2017 17:57:01"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 172890.6500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "July, 23 2018 12:57:48"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 247688.8500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "June, 25 2018 14:49:54"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 298445.3300,
+    "ORIGINAL_CONTRACT_AMOUNT": 363656.0000,
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "August, 14 2017 13:52:27"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 282947.3600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Robert Feiler",
+    "EXECUTION_DATE": "October, 12 2017 21:10:27"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 188897.9600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "August, 25 2017 13:46:32"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 285434.4000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "John Ise",
+    "EXECUTION_DATE": "May, 30 2018 15:45:46"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 460577.7200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Yesenia Reyes",
+    "EXECUTION_DATE": "March, 08 2018 21:13:33"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 332657.1800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "July, 13 2018 12:27:53"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 250984.5900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "September, 25 2017 12:44:44"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 177219.4400,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "March, 29 2018 21:21:20"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 298925.4000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Urania Vergara",
+    "EXECUTION_DATE": "March, 12 2018 13:58:38"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 242280.8900,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Diana Beltre",
+    "EXECUTION_DATE": "May, 02 2018 09:31:47"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": "",
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": ""
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 210419.7500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "March, 22 2018 18:26:14"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 199487.1200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "March, 22 2018 18:24:44"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 134227.9600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "July, 26 2017 20:01:09"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 148717.6200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "February, 15 2018 19:51:32"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 124384.5500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "June, 01 2018 11:34:24"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 146660.2600,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Glenny Reynoso",
+    "EXECUTION_DATE": "June, 14 2018 13:51:03"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 167579.8200,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Robert Feiler",
+    "EXECUTION_DATE": "July, 26 2017 17:05:19"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 266413.2800,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "January, 05 2018 17:28:01"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 248974.4500,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "January, 23 2018 18:13:27"
+  },
+  {
+    "ACCOUNTANT": "Ken Freimark",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 144775.9000,
+    "ORIGINAL_CONTRACT_AMOUNT": "",
+    "CONTRACT_MANAGER": "Josefina Greene",
+    "EXECUTION_DATE": "October, 16 2017 13:38:42"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 195723.1300,
+    "ORIGINAL_CONTRACT_AMOUNT": 201541.0000,
+    "CONTRACT_MANAGER": "Marisela De D'Windt",
+    "EXECUTION_DATE": "August, 20 2018 15:12:52"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 108378.4700,
+    "ORIGINAL_CONTRACT_AMOUNT": 148460.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": "June, 06 2018 13:06:40"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 126507.0100,
+    "ORIGINAL_CONTRACT_AMOUNT": 136350.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "April, 16 2018 15:14:06"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 113369.5300,
+    "ORIGINAL_CONTRACT_AMOUNT": 119383.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "April, 24 2018 17:02:01"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 153057.3800,
+    "ORIGINAL_CONTRACT_AMOUNT": 174119.0000,
+    "CONTRACT_MANAGER": "Shemir Dauphin",
+    "EXECUTION_DATE": "May, 10 2018 18:56:39"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 1245328.0000,
+    "ORIGINAL_CONTRACT_AMOUNT": 1245328.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "April, 04 2018 17:52:58"
+  },
+  {
+    "ACCOUNTANT": "Perla Zepeda - Consultant",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 29439.2700,
+    "ORIGINAL_CONTRACT_AMOUNT": 200000.0000,
+    "CONTRACT_MANAGER": "Blanch Johnson",
+    "EXECUTION_DATE": "July, 18 2018 15:29:16"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 193193.2900,
+    "ORIGINAL_CONTRACT_AMOUNT": 206140.0000,
+    "CONTRACT_MANAGER": "Cravel Holmes",
+    "EXECUTION_DATE": "June, 14 2018 13:50:01"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 195867.8300,
+    "ORIGINAL_CONTRACT_AMOUNT": 225000.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "July, 20 2018 16:01:16"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 129419.0800,
+    "ORIGINAL_CONTRACT_AMOUNT": 140328.0000,
+    "CONTRACT_MANAGER": "Ana Sanchez",
+    "EXECUTION_DATE": "July, 02 2018 13:24:00"
+  },
+  {
+    "ACCOUNTANT": "Dalila Gonzalez",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 137662.5000,
+    "ORIGINAL_CONTRACT_AMOUNT": 145424.0000,
+    "CONTRACT_MANAGER": "Tatiana Canelas",
+    "EXECUTION_DATE": "July, 06 2018 14:57:49"
+  },
+  {
+    "ACCOUNTANT": "Goran Omerhodzic",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 62094.4700,
+    "ORIGINAL_CONTRACT_AMOUNT": 66684.0000,
+    "CONTRACT_MANAGER": "Yurena Driggs",
+    "EXECUTION_DATE": "May, 11 2018 15:46:05"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 213452.0900,
+    "ORIGINAL_CONTRACT_AMOUNT": 217780.0000,
+    "CONTRACT_MANAGER": "Kathleen Dexter",
+    "EXECUTION_DATE": "June, 27 2018 18:26:27"
+  },
+  {
+    "ACCOUNTANT": "Kesha Davis",
+    "INITIATIVE": "Youth Enrichment, Employment and Supports",
+    "YTD_EXPENDITURES": 127421.6100,
+    "ORIGINAL_CONTRACT_AMOUNT": 145450.0000,
+    "CONTRACT_MANAGER": "Garnet Esters",
+    "EXECUTION_DATE": "July, 18 2018 15:40:54"
+  }
+]

@@ -1,0 +1,26 @@
+{
+  "ACCOUNTANT": {
+    "caption": "Accountant",
+    "type": "string"
+  },
+  "INITIATIVE": {
+    "caption": "Initiative",
+    "type": "string"
+  },
+  "YTD_EXPENDITURES": {
+    "caption": "Ytd Expenditures",
+    "type": "number"
+  },
+  "ORIGINAL_CONTRACT_AMOUNT": {
+    "caption": "Original Contract Amount",
+    "type": "number"
+  },
+  "CONTRACT_MANAGER": {
+    "caption": "Contract Manager",
+    "type": "string"
+  },
+  "EXECUTION_DATE": {
+    "caption": "Execution Date",
+    "type": "date"
+  }
+}
