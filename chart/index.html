@@ -1,53 +1,62 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html>
 
 <head>
-    <title></title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="css/style.css" rel="stylesheet">
-    <script type="text/javascript" src="js/library/jquery.min.js"></script>
-    <script type="text/javascript" src="js/mine/main.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Chart Templates</title>
+
+    <link rel="stylesheet" type="text/css" href="style/style.css" />
 </head>
 
+<script type="text/javascript" src="js/library/jquery.min.js"></script>
+<script type="text/javascript" src="js/library/fusionChart/fusioncharts.js"></script>
+
+<script type="text/javascript" src="js/mine/fusion.chart.js"></script>
+
+<script type="text/javascript" src="js/mine/dataSourceModel.js"></script>
+<script type="text/javascript" src="js/mine/data.source.map.js"></script>
+<script type="text/javascript" src="js/mine/main.js"></script>
+
 <body>
-    <div id="wrap">
-        <header>
-            <a class="logo" href="#home"><img src=""></a>
-            <nav>
-                <input class="nav-toggle" id="nav-toggle" type="checkbox">
-                <label class="navicon" for="nav-toggle"><span class="navicon-bar"></span></label>
-                <ul class="nav-items">
-                    <li><a href="#home">Home</a></li>
-                    <li><a href="#news">News</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                    <li><a href="#about">About</a></li>
-                </ul>
-            </nav>
-        </header>
-
-        <div id="content-wrap">
-            <aside>
-                <h1>Aside</h1>
-                <ul>
-                    <li><a href="#" class="active">London</a></li>
-                    <li><a href="#">Paris</a></li>
-                    <li><a href="#">Tokyo</a></li>
-                    <li><a href="#">Newyork</a></li>
-                </ul>
-            </aside>
-            <section>
-                <article id="chart">
-                    <h1>Chart</h1>
-                </article>
-
-            </section>
-            <!-- end of content-wrap -->
-        </div>
-        <footer>© Copyright 2018 chart</footer>
-        <!-- end of wrap   -->
+    <div id="header_area">
+        Chart Templates
     </div>
-
+    <div id="main_area">
+        <div id="left_area">
+            <section class="active">
+                <h3>Layer 1</h3>
+                <dl>
+                    <dd>First</dd>
+                    <dd>Second</dd>
+                    <dd>Third</dd>
+                    <dd class="clear_both"></dd>
+                </dl>
+            </section>
+            <section disabled>
+                <h3>Layer 2</h3>
+                <dl>
+                    <dd>First</dd>
+                    <dd>Second</dd>
+                    <dd>Third</dd>
+                    <dd class="clear_both"></dd>
+                </dl>
+            </section>
+            <section>
+                <h3>Layer 3</h3>
+                <dl>
+                    <dd>First</dd>
+                    <dd>Second</dd>
+                    <dd>Third</dd>
+                    <dd class="clear_both"></dd>
+                </dl>
+            </section>
+        </div>
+        <div id="right_area">
+            <div id="render_area">
+                <div id="chart_area"></div>
+            </div>
+        </div>
+    </div>
+    <div id="footer_area"></div>
 </body>
-
-</html>

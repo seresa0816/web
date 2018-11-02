@@ -1,0 +1,230 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    top: 0px;
+    left: 0px;
+    /*font-family	: Arial;*/
+    margin: 0px;
+    padding: 0px;
+    font-family: GoudyStM, SourceSansPro-It;
+    overflow: hidden;
+    background: #ffffff;
+}
+
+#main_area {
+    width: 1024px;
+    margin: 50px auto;
+    min-height: 728px;
+    border: 4px double #ddd;
+    box-shadow: 0px 0px 10px #aaa;
+    position: relative;
+}
+
+#left_area {
+    float: left;
+    width: 300px;
+    height: 100%;
+    margin: 5px;
+    border: 3px solid #ddd;
+    padding-bottom: 10px;
+}
+
+#right_area {
+    left: 345px;
+    width: calc(100% - 365px);
+    height: 100%;
+    position: absolute;
+}
+
+#render_area {
+    width: 100%;
+    height: 100%;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: 0px center;
+    padding: 100px 10px;
+}
+
+#chart_area {
+    width: 100%;
+    height: 100%;
+    border: solid 3px #ccc;
+}
+
+#render_area .items,
+#render_area .options {
+    width: 100%;
+    height: 100%;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    background-position: 0px center;
+    position: absolute;
+}
+
+#left_area h3 {
+    cursor: pointer;
+    font-size: 14px;
+    color: #2f2f2f;
+    margin: 10px;
+    border: 1px solid #ccc;
+    padding: 10px 25px;
+    font-family: sans-serif;
+    line-height: 16px !important;
+    /* background: url(../img/nowleft.png) no-repeat; */
+    background-position: right 10px center;
+}
+
+#left_area section {
+    height: 50px;
+    overflow: hidden;
+}
+
+#left_area h3.disable {
+    color: #7b7b7b;
+    background-color: #b3b3b3;
+}
+
+#left_area section.active {
+    height: 300px;
+}
+
+#left_area section.active h3 {
+    /* background: url(../img/nowdown.png) #ddd no-repeat; */
+    background-position: right 10px center;
+}
+
+#left_area section dl {
+    margin: 5px;
+    padding: 5px;
+    display: inline-block;
+}
+
+#left_area section dd {
+    cursor: pointer;
+    margin: 5px;
+    float: left;
+    width: 80px;
+    height: 80px;
+    border: 1px solid #ddd;
+    font-family: arial;
+    /* line-height: 80px; */
+    text-align: center;
+    font-size: 12px;
+    box-shadow: 0px 0px 5px #ccc;
+    margin-bottom: 5px;
+    padding-top: 10px;
+}
+
+#left_area section dd img {
+    width: 100%;
+    vertical-align: middle;
+}
+
+#left_area section dd.sel {
+    background: #4e82e4;
+    color: #ffffff;
+}
+
+#left_area section dd p {
+    font-family: arial;
+    margin-top: 5px;
+    line-height: 15px;
+}
+
+.clear_both {
+    width: 0px;
+    height: 0px;
+    clear: both;
+    display: none;
+}
+
+#btn_change_scene {
+    width: calc(100% - 30px);
+    height: 30px;
+    margin: 10px;
+    padding: 5px;
+    background: #2f2f2f;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+    font-family: arial;
+    cursor: pointer;
+    font-size: 13px;
+    box-sizing: content-box !important;
+}
+
+#overlay_mask {
+    position: absolute;
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.65);
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+}
+
+#scene_list {
+    position: absolute;
+    z-index: 2000;
+    height: 220px;
+    width: 800px;
+    left: calc(50% - 400px);
+    top: 250px;
+    padding: 15px;
+    background: url(../img/background.png);
+    background-repeat: repeat-y;
+    background-size: contain;
+    border-top: 1px solid #666;
+    border-bottom: 1px solid #666;
+}
+
+#scene_list ul {
+    margin: 35px auto;
+    list-style: none;
+}
+
+#scene_list ul li {
+    float: left;
+    margin-left: 35px;
+    cursor: pointer;
+}
+
+#scene_list img {
+    width: 195px;
+    height: 130px;
+    box-shadow: 0px 0px 20px black;
+}
+
+#btn_close {
+    width: 24px !important;
+    height: 24px !important;
+    box-shadow: none !important;
+    cursor: pointer;
+    position: absolute;
+    right: 20px;
+}
+
+#header_area {
+    width: 100%;
+    height: 50px;
+    background: #333;
+    color: white;
+    line-height: 50px;
+    padding-left: 30px;
+    font-family: cursive;
+    font-size: 16px;
+}
+
+#footer_area {
+    width: 100%;
+    height: 35px;
+    background: #333;
+    position: absolute;
+    bottom: 0px;
+}
+
+.no_show {
+    display: none;
+}
