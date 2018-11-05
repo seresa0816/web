@@ -15,7 +15,7 @@ var DataSource = function () {
             if (typeof (template[key]) == "object") {
                 if (Array.isArray(template[key])) {
                     target[key] = [];
-                    if (main.checkMultiArray(template[key])) {
+                    if (main.checkMultiArray(template[key], variables)) {
                         target[key] = main.getMultiArrayData(template[key], variables);
                     } else {
                         target[key] = main.getArrayData(template[key], variables);
@@ -45,7 +45,7 @@ var DataSource = function () {
         return target;
     }
 
-    main.checkMultiArray = function (template) {
+    main.checkMultiArray = function (template, variables) {
         try {
             if (!Array.isArray(template)) {
                 return false;
@@ -53,19 +53,34 @@ var DataSource = function () {
             if (typeof (template[0]) == "object") {
                 for (var key in template[0]) {
                     valueCheck = /^value\$\{(.*)\}$/;
-                    if (typeof(template[0][key]) == "string" && valueCheck.test(template[0][key])) {
-                        return true;
+                    if (typeof (template[0][key]) == "string" && valueCheck.test(template[0][key])) {
+                        var value = template[0][key];
+                        valkey = value.slice(7, value.length - 1);
+
+                        var val = variables[valkey];
+                        if (val.type == "data") {
+                            return true;
+                        }
                     }
                 }
             }
             return false;
-        }catch(ex){
+        } catch (ex) {
             console.log(ex);
             return false;
         }
     }
 
     main.getMultiArrayData = function (template, variables) {
+        try {
+            if (variables.limit && variables.limit.value > 0) {
+                main.datacount = variables.limit.value;
+            }
+        } catch (ex) {
+
+        }
+
+
         let target = [];
         for (index = 0; index < main.datacount; index++) {
             if (typeof (template[0]) == "object") {
@@ -90,7 +105,7 @@ var DataSource = function () {
 
             if (val.type == "data") {
                 return parent.data.config[val.value].caption;
-            } else {
+            } else{
                 return "";
             }
         } else if (valueCheck.test(value)) {
@@ -102,7 +117,9 @@ var DataSource = function () {
             }
             if (val.type == "data") {
                 return parent.data.chart[index][val.value];
-            } else {
+            } else if (val.type == "increase_number"){
+                return val.value * (index + 1);
+            }else {
                 return val.value;
             }
         } else {

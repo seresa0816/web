@@ -35,25 +35,29 @@ var initEnv = function () {
     main.drawLeftArea = function () {
         $leftArea = $("#left_area");
         $leftArea.html("");
-        active_flag = false;
-        for (var sk in main.chart.superTypes) {
-            element = main.chart.superTypes[sk];
-            if (active_flag) {
-                $section = $("<section class='active'></section>");
-                active_flag = false;
-            } else {
-                $section = $("<section></section>");
+        $branch_selection = $("<select id='branch'></select>");
+        $leftArea.append($branch_selection).append($("<div class='divider'></div>"));
+        for (var branch_key in main.chart.chartType) {
+            branch_element = main.chart.chartType[branch_key];
+            $branch_element = $("<div class='branch' id='" + "br_" + branch_key + "' style='display:none;'></div>");
+            $branch_selection.append($("<option value='" + branch_key + "'>" + main.chart.chartBranch[branch_key] + "</option>"));
+            for (var sub_branch_key in branch_element) {
+                sub_branch_element = branch_element[sub_branch_key];
+                $sub_branch_element = $("<section></section>");
+                $sub_branch_element.append($("<h3>" + sub_branch_element.title + "</h3>"));
+
+                $chart_list = $("<dl></dl>");
+                for (var index in sub_branch_element.series) {
+                    chart_element = sub_branch_element.series[index];
+                    $chart_element = $("<dd type='" + chart_element.type + "'>" + chart_element.title + "</dd>");
+                    $chart_list.append($chart_element);
+                }
+                $chart_list.append($('<dd class="clear_both"></dd>'));
+                $sub_branch_element.append($chart_list);
+                $branch_element.append($sub_branch_element);
             }
-            $section.append($("<h3>" + element.title + "</h3>"));
-            $chartlist = $("<dl></dl>");
-            for (var bk in main.chart.chartType[element.branch].series) {
-                subelement = main.chart.chartType[element.branch].series[bk];
-                $chart = $("<dd type='" + subelement.type + "'>" + subelement.title + "</dd>");
-                $chartlist.append($chart);
-            }
-            $chartlist.append($('<dd class="clear_both"></dd>'));
-            $section.append($chartlist);
-            $leftArea.append($section);
+
+            $leftArea.append($branch_element);
         }
     }
 
@@ -68,9 +72,16 @@ var initEnv = function () {
                 $(this).removeClass("active");
             });
 
-            $(this).parent().animate({ height: $(this).parent().find("dl").height() + 80 + "px" }, 500, function () {
+            $(this).parent().animate({ height: $(this).parent().find("dl").height() + 50 + "px" }, 500, function () {
                 $(this).addClass("active");
             })
+        });
+
+        $("#branch").change(function () {
+            $("div.branch").each(function () {
+                $(this).hide();
+            });
+            $("div#br_" + $(this).val()).show();
         });
 
         $("#left_area").on("click", "dd", function () {
@@ -81,6 +92,11 @@ var initEnv = function () {
                 alert("dataSource is not ready.");
             }
         });
+        
+        $("div.branch").each(function () {
+            $(this).hide();
+        });
+        $("div#br_" + $("#branch").val()).show();
     }
     main.showDefaultChart = function (type) {
         try {
