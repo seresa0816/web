@@ -21,8 +21,8 @@ var fusionChart = function() {
     main.showChart = function(type, dataSource) {
         var chartInstance = new FusionCharts({
             type: type,
-            width: '626', // Width of the chart
-            height: '514', // Height of the chart
+            width: '595', // Width of the chart
+            height: '495', // Height of the chart
             dataFormat: 'json', // Data type
             renderAt: 'chart_area', //container where the chart will render
             dataSource: dataSource
@@ -34,7 +34,6 @@ var fusionChart = function() {
     main.chartType = {
         single_series: {
             title: "Single Series Charts",
-            defaultConfig: default_config.singleConfig,
             series: [{
                 title: "Column 2D",
                 type: "column2d",
@@ -75,7 +74,6 @@ var fusionChart = function() {
         },
         multi_series: {
             title: "Multi-series Charts",
-            defaultConfig: default_config.multiConfig,
             series: [{
                 title: "Multi-series Column 2D",
                 type: "mscolumn2d"
@@ -113,7 +111,6 @@ var fusionChart = function() {
         },
         stacked: {
             title: "Stacked Charts",
-            defaultConfig: default_config.stackedConfig,
             series: [{
                 title: "Stacked Column 2D",
                 type: "stackedcolumn2d"
@@ -136,7 +133,6 @@ var fusionChart = function() {
         },
         combination: {
             title: "Combination Charts",
-            defaultConfig: default_config.combinedConfig,
             series: [{
                 title: "Multi-series 2D Single Y Combination Chart (Column + Line + Area)",
                 type: "mscombi2d"
@@ -168,7 +164,6 @@ var fusionChart = function() {
         },
         xy_plot: {
             title: "XY Plot Charts",
-            defaultConfig: default_config.xyPlotConfig,
             series: [{
                 title: "Scatter Chart ",
                 type: "scatter"
@@ -182,7 +177,6 @@ var fusionChart = function() {
         },
         scroll: {
             title: "Scroll Charts",
-            defaultConfig: default_config.scrollConfig,
             series: [{
                 title: "Scroll Column 2D ",
                 type: "scrollcolumn2d"
